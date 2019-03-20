@@ -83,17 +83,9 @@ theme_config:
     github: https://github.com/codynhat
     twitter: https://twitter.com/codynhat
     linkedin: https://www.linkedin.com/in/codyhatfield/
+    rss: /atom.xml
   nav:
-    Home: /
-    Blog: /archives/
   rss:
-  favicon:
-    desktop:
-      url: ''
-    android:
-      url: ''
-    apple:
-      url: ''
 
 # RSS Feed
 feed:
