@@ -86,6 +86,9 @@ theme_config:
     rss: /atom.xml
   nav:
   rss:
+  fathom_analytics:
+    enabled: true
+    id: NVAQLTNJ
 
 # RSS Feed
 feed:
