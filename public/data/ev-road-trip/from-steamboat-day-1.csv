@@ -1,0 +1,6 @@
+,Arrival Time (MDT),Departure Time (MDT),Arrival Charge Level,Departure Charge Level,Charge Cost,Leg Time,Stop Length,Charge Amount (%),Charge Amount (Est kWh),Average Charge Speed (kW),Average Charge Speed (mph),Cost per kWh,Bathroom-only break?,Food break?
+"Steamboat Springs, CO",,2019-07-21 8:34,,100%,$0.00,,,,,,,,,
+"Rock Springs, WY",2019-07-21 12:03,2019-07-21 12:52,21%,85%,$8.26,3h 29m,49m,64%,48,59,243,$0.17,FALSE,TRUE
+"Jackson, WY",2019-07-21 15:44,2019-07-21 16:10,27%,74%,$5.58,2h 52m,26m,47%,35.25,81,336,$0.16,TRUE,FALSE
+"Henry’s Lake, ID",2019-07-21 22:40,,39%,100%,,6h 30m,,61%,45.75,,,$0.00,,
+,,,,,$13.84,12h 51m,75m,,,,,,,
