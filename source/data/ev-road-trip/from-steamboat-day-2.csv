@@ -1,0 +1,10 @@
+,Arrival Time (MDT),Departure Time (MDT),Arrival Charge Level,Departure Charge Level,Charge Cost,Leg Time,Stop Length,Charge Amount (%),Charge Amount (Est kWh),Average Charge Speed (kW),Average Charge Speed (mph),Cost per kWh,Bathroom-only break?,Food break?
+"Henry’s Lake, ID",,2019-07-22 6:36,,100%,$0.00,,,,,,,,,
+"Butte, MT",2019-07-22 8:41,2019-07-22 8:50,49%,66%,$1.62,2h 5m,9m,17%,12.75,85,351,$0.13,TRUE,FALSE
+"Missoula, MT",2019-07-22 10:30,2019-07-22 10:38,23%,44%,$1.89,1h 40m,8m,21%,15.75,118,488,$0.12,TRUE,FALSE
+"Superior, MT",2019-07-22 11:30,2019-07-22 11:52,25%,77%,$5.40,52m,22m,52%,39,106,440,$0.14,FALSE,TRUE
+"Coeur d’Alene, ID",2019-07-22 13:34,2019-07-22 13:41,38%,52%,$2.53,1h 42m,7m,14%,10.5,90,372,$0.24,TRUE,FALSE
+"Ritzville, WA",2019-07-22 15:15,2019-07-22 15:49,24%,59%,$6.50,1h 34m,34m,35%,26.25,46,191,$0.25,FALSE,TRUE
+"Cle Elum, WA",2019-07-22 17:41,2019-07-22 17:58,8%,38%,$7.59,1h 52m,17m,30%,22.5,79,328,$0.34,TRUE,FALSE
+"Seattle, WA",2019-07-22 19:33,,11%,,,1h 35m,,,,,,,,
+,,,,,$25.53,11h 20m,97m,,,,,,,
