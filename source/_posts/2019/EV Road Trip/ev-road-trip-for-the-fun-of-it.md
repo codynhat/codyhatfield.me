@@ -1,10 +1,15 @@
 ---
 title: "EV Road Trip: For the Fun of It"
 date: 2019-08-21 00:00:00
+categories:
+  - EV Road Trip
 tags:
   - tesla
-  - ev-road-trip
 ---
+
+**Update:** _This post is part of a series of posts about a recent road trip I took in my Tesla Model 3. You can see a list of all posts in the series [here](/categories/ev-road-trip/)._
+
+- - - -
 
 {% asset_img images/teton-tesla-model-3-dashcam.png Grand Tetons from Model 3 Dashcam %}
 
