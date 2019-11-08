@@ -87,8 +87,7 @@ theme_config:
   nav:
   rss:
   fathom_analytics:
-    enabled: true
-    id: NVAQLTNJ
+    enabled: false
 
 # RSS Feed
 feed:
