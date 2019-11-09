@@ -73,12 +73,8 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: cactus
+theme: main
 theme_config:
-  colorscheme: solarized
-  highlight: solarized-light
-  logo:
-    enabled: false
   social_links:
     github: https://github.com/codynhat
     twitter: https://twitter.com/codynhat
@@ -86,8 +82,6 @@ theme_config:
     rss: /atom.xml
   nav:
   rss:
-  fathom_analytics:
-    enabled: false
 
 # RSS Feed
 feed:
@@ -97,8 +91,3 @@ feed:
   hub:
   content: true
   order_by: -date
-
-# Deployment
-## Docs: https://hexo.io/docs/deployment.html
-deploy:
-  type: ipfs
