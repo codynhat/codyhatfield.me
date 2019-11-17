@@ -132,14 +132,24 @@
 
         <footer id="footer">
   <div class="footer-left">
-    Copyright &copy; 2019 Cody Hatfield
+    <form
+      action="https://buttondown.email/api/emails/embed-subscribe/codynhat"
+      method="post"
+      target="popupwindow"
+      onsubmit="window.open('https://buttondown.email/codynhat', 'popupwindow')"
+      class="embeddable-buttondown-form"
+    >
+      <label for="bd-email">Subscribe to newsletter</label>
+      <input type="email" name="email" id="bd-email">
+      <input type="hidden" value="1" name="embed"></input>
+      <input type="submit" value="Subscribe"></input>
+      <p>
+        <a href="https://buttondown.email" target="_blank">Powered by Buttondown.</a>
+      </p>
+    </form>
   </div>
   <div class="footer-right">
-    <nav>
-      <ul>
-        
-      </ul>
-    </nav>
+    Copyright &copy; 2019 Cody Hatfield
   </div>
 </footer>
 

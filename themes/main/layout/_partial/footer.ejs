@@ -1,14 +1,22 @@
 <footer id="footer">
   <div class="footer-left">
-    Copyright &copy; <%= new Date().getFullYear() %> <%= config.author || config.title %>
+    <form
+      action="https://buttondown.email/api/emails/embed-subscribe/codynhat"
+      method="post"
+      target="popupwindow"
+      onsubmit="window.open('https://buttondown.email/codynhat', 'popupwindow')"
+      class="embeddable-buttondown-form"
+    >
+      <label for="bd-email">Subscribe to newsletter</label>
+      <input type="email" name="email" id="bd-email">
+      <input type="hidden" value="1" name="embed"></input>
+      <input type="submit" value="Subscribe"></input>
+      <p>
+        <a href="https://buttondown.email" target="_blank">Powered by Buttondown.</a>
+      </p>
+    </form>
   </div>
   <div class="footer-right">
-    <nav>
-      <ul>
-        <% for (var i in theme.nav) { %>
-          <li><a href="<%- url_for(theme.nav[i]) %>"><%= __('nav.'+i).replace("nav.", "") %></a></li>
-        <% } %>
-      </ul>
-    </nav>
+    Copyright &copy; <%= new Date().getFullYear() %> <%= config.author || config.title %>
   </div>
 </footer>
