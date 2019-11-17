@@ -83,6 +83,10 @@ theme_config:
   nav:
   rss:
 
+markdown:
+  plugins:
+    - markdown-it-footnote
+
 # RSS Feed
 feed:
   type: atom
