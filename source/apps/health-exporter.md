@@ -38,6 +38,10 @@ The temporary file is encrypted on your device using the iOS default "Protected 
 
 Once exported, the file is not encrypted.
 
+## Why are you not doing *X* for my security and privacy?
+
+Please [contact me](mailto:cody.hatfield@me.com) with any questions or feedback!
+
 ## Which data types are available to export?
 
 The following health data types are available to export:
