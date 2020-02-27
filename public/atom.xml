@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://codyhatfield.me/"/>
-  <updated>2019-11-17T20:57:05.479Z</updated>
+  <updated>2020-02-27T16:54:11.422Z</updated>
   <id>https://codyhatfield.me/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Health Exporter 1.1.0 Released</title>
+    <link href="https://codyhatfield.me/2020/02/health-exporter-1-1-0-released/"/>
+    <id>https://codyhatfield.me/2020/02/health-exporter-1-1-0-released/</id>
+    <published>2020-02-27T16:54:11.000Z</published>
+    <updated>2020-02-27T16:54:11.422Z</updated>
+    
+    <content type="html"><![CDATA[<p>Health Exporter 1.1.0 is now released on the App Store.</p><p>This release allows you to export multiple data types at once into a single CSV file.</p><hr><p>Health Exporter is a simple iOS application that allows you to export iOS health data to a CSV file. See more details <a href="/apps/health-exporter.html">here</a>.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Health Exporter 1.1.0 is now released on the App Store.&lt;/p&gt;
+&lt;p&gt;This release allows you to export multiple data types at once into a singl
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>We Should Learn From RSS</title>

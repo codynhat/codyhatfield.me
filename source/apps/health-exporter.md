@@ -7,6 +7,10 @@ Save Raw Health Data to a CSV
 
 {% img left /apps/health-exporter/Icon.png 200 200 "Health Exporter 'Save Raw Health Data to a CSV'" %}
 
+{% raw %}
+<a href="https://apps.apple.com/app/apple-store/id1487982065?pt=1329993&ct=codyhatfield.me&mt=8" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/en-us/badge-lrg.svg?releaseDate=2019-11-26&kind=iossoftware&bubble=ios_apps) no-repeat;width:135px;height:40px;"></a>
+{% endraw %}
+
 Access your data from the Health app in the widely compatible CSV format.
 
 * Save as a CSV file
@@ -15,6 +19,11 @@ Access your data from the Health app in the widely compatible CSV format.
 * Manually back up your data to another device
 
 Select a health data type, date range, and unit to begin export. Preview rows before saving a CSV.
+
+# Changelog
+
+### 1.1.0
+* You can now export multiple data types at once into the same CSV file
 
 # Privacy
 
