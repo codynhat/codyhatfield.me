@@ -6,7 +6,7 @@ excerpt: Command line utility to backup iOS devices to an embedded and private I
 tags:
 ---
 
-***Update**: This has now been built into a single command line tool. Installation and usage can be found on [Github](https://github.com/codynhat/ipfs-ios-backup).*
+***Update 2020-04-07**: This has now been built into a single command line tool. Installation and usage can be found on [Github](https://github.com/codynhat/ipfs-ios-backup).*
 
 ---
 
