@@ -1,9 +1,14 @@
 ---
 title: Backup Your iOS Devices to a Private IPFS Node
 date: 2020-03-25 08:44:31
+updated: 2020-04-07 11:42:00
+excerpt: Command line utility to backup iOS devices to an embedded and private IPFS node.
 tags:
 ---
 
+***Update**: This has now been built into a single command line tool. Installation and usage can be found on [Github](https://github.com/codynhat/ipfs-ios-backup).*
+
+---
 
 There are various reasons you may want to backup your iOS device somewhere [other than iCloud](https://www.reuters.com/article/us-apple-fbi-icloud-exclusive/exclusive-apple-dropped-plan-for-encrypting-backups-after-fbi-complained-sources-idUSKBN1ZK1CT).
 
