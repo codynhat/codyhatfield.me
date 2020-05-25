@@ -81,6 +81,8 @@ theme_config:
     twitter: https://twitter.com/codynhat
     linkedin: https://www.linkedin.com/in/codyhatfield/
     rss: /atom.xml
+  favicon:
+    enabled: true
   nav:
   rss:
   logo:
