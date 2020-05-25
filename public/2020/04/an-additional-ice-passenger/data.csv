@@ -1,0 +1,25 @@
+scenario,grid_emissions (kg/CO2/kWh),Emissions (kg/CO2/mile)
+Iceland,0.000,0.000
+Norway,0.011,0.003
+Sweden,0.012,0.003
+Switzerland,0.014,0.004
+Additional Passenger in ICE Car (24 MPG),,0.006
+Vermont,0.032,0.008
+France,0.047,0.012
+Washington State,0.089,0.023
+Brazil,0.093,0.024
+Canada,0.140,0.036
+Oregon,0.146,0.037
+Denmark,0.209,0.054
+California,0.215,0.055
+Spain,0.288,0.074
+Alaska,0.445,0.114
+Germany,0.469,0.121
+United States (Overall),0.477,0.123
+Japan,0.492,0.126
+Texas,0.503,0.129
+China,0.624,0.160
+India,0.743,0.191
+Australia,0.900,0.231
+South Africa,0.961,0.247
+ICE Car (24 MPG),,0.370
