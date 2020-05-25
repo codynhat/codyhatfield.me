@@ -1,7 +1,17 @@
 <header id="header">
   <a href="<%- url_for("/") %>">
   <% if (theme.logo && theme.logo.enabled) { %>
-    <div id="logo" style="background-image: url(<%- url_for(theme.logo.light) %>);" media="(prefers-color-scheme: light)"></div>
+    <style media="(prefers-color-scheme: light)">
+      #logo {
+        background-image: url(<%- url_for(theme.logo.light) %>);
+      }
+    </style>
+    <style media="(prefers-color-scheme: dark)">
+      #logo {
+        background-image: url(<%- url_for(theme.logo.dark) %>);
+      }
+    </style>
+    <div id="logo"></div>
   <% } %>
     <div id="title">
       <h1><%= config.title %></h1>
