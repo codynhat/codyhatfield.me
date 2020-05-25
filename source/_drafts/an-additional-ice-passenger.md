@@ -66,7 +66,7 @@ The first example is my home state of Washington<sup id="fnr5">[5]</sup>, which 
 
 So what results in more carbon emissions? In this case, it depends greatly on where your electricity is coming from. As you can see in the chart below, there are plenty of countries where riding in the ICE car has less emissions, and also some countries where riding in the EV has less emissions. There is even Iceland, which emits **zero** carbon emissions from electricity generation.
 
-<canvas id="data" height="250"></canvas><a href="data.csv" style="font-size: x-small;">Raw Data</a>
+<canvas id="data" height="400em"></canvas><a href="data.csv" style="font-size: x-small;">Raw Data</a>
 
 
 <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
@@ -81,6 +81,8 @@ So what results in more carbon emissions? In this case, it depends greatly on wh
     }
     colors[4] = '#d33682';
     colors[23] = '#d33682';
+    var tColor = window.getComputedStyle(document.getElementsByTagName("body")[0]).color;
+    Chart.defaults.global.defaultFontColor = tColor;
     var chart = new Chart(ctx, {
         type: 'horizontalBar',
         data: {
@@ -115,9 +117,17 @@ So what results in more carbon emissions? In this case, it depends greatly on wh
             },
             scales: {
                 xAxes: [{
+                    gridLines: {
+                        display: false,
+                        drawBorder: false
+                    },
                     stacked: true
                 }],
                 yAxes: [{
+                    gridLines: {
+                        display: false,
+                        drawBorder: false
+                    },
                     stacked: true
                 }]
             }

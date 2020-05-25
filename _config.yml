@@ -75,6 +75,7 @@ pagination_dir: page
 ## Themes: https://hexo.io/themes/
 theme: main
 theme_config:
+  page_width: 50
   social_links:
     github: https://github.com/codynhat
     twitter: https://twitter.com/codynhat
@@ -82,6 +83,12 @@ theme_config:
     rss: /atom.xml
   nav:
   rss:
+  logo:
+    enabled: true
+    width: 75
+    height: 75
+    dark: /logo-dark.png
+    light: /logo-light.png
   posts_overview:
     show_all_posts: true
 
