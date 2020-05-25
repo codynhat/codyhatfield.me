@@ -1,7 +1,9 @@
 ---
 title: An Additional ICE Passenger
+date: 2020-05-25 12:22:03
 tags:
 ---
+
 
 I have come across several scenarios where I have a choice between riding as a passenger in an ICE (internal combustion engine) car or driving myself in my EV (electric vehicle). A question that has been in my head is which of these would result in lower carbon emissions?
 

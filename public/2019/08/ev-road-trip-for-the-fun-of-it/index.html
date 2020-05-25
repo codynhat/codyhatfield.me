@@ -24,6 +24,16 @@
 <meta name="twitter:image" content="https://codyhatfield.me/2019/08/ev-road-trip-for-the-fun-of-it/images/teton-tesla-model-3-dashcam.png">
     
     
+      <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-light.png" media="(prefers-color-scheme: light)">
+      <link rel="icon" type="image/png" sizes="32x32" href="/favicon-light-32x32.png" media="(prefers-color-scheme: light)">
+      <link rel="icon" type="image/png" sizes="16x16" href="/favicon-light-16x16.png" media="(prefers-color-scheme: light)">
+      <link rel="manifest" href="/site-light.webmanifest" media="(prefers-color-scheme: light)">
+
+      <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-dark.png" media="(prefers-color-scheme: dark)">
+      <link rel="icon" type="image/png" sizes="32x32" href="/favicon-dark-32x32.png" media="(prefers-color-scheme: dark)">
+      <link rel="icon" type="image/png" sizes="16x16" href="/favicon-dark-16x16.png" media="(prefers-color-scheme: dark)">
+      <link rel="manifest" href="/site-dark.webmanifest" media="(prefers-color-scheme: dark)">
+    
     <!-- title -->
     <title>EV Road Trip: For the Fun of It</title>
     <!-- styles -->
@@ -46,7 +56,17 @@
         <header id="header">
   <a href="/">
   
-    <div id="logo" style="background-image: url(/logo-light.png);" media="(prefers-color-scheme: light)"></div>
+    <style media="(prefers-color-scheme: light)">
+      #logo {
+        background-image: url(/logo-light.png);
+      }
+    </style>
+    <style media="(prefers-color-scheme: dark)">
+      #logo {
+        background-image: url(/logo-dark.png);
+      }
+    </style>
+    <div id="logo"></div>
   
     <div id="title">
       <h1>Cody Hatfield</h1>
