@@ -4,8 +4,9 @@ date: 2020-05-25 12:22:03
 tags:
 ---
 
+My main goal in purchasing my Tesla Model 3 a couple of years ago was to reduce the amount of carbon emissions I contribute to the atmosphere. Driving an electric vehicle almost always means emitting less carbon emissions. However, there are certain scenarios, such as carpooling and public transit, that can still result in lower emissions.
 
-I have come across several scenarios where I have a choice between riding as a passenger in an ICE (internal combustion engine) car or driving myself in my EV (electric vehicle). A question that has been in my head is which of these would result in lower carbon emissions?
+One common scenario is when I have a choice between riding as a passenger in an ICE (internal combustion engine) car or driving myself in my EV (electric vehicle). So, the question is: **which of these would result in lower carbon emissions?**
 
 1. Riding as an additional passenger in an ICE car; OR
 2. Driving alone in an EV
@@ -141,6 +142,9 @@ So what results in more carbon emissions? In this case, it depends greatly on wh
 
 As time goes on, all these countries will start to move further down on this chart as they transition to renewable energy, without EVs needing to change anything. Meanwhile, the ICE car will not be emitting any less emissions in the future than it did on its first mile.
 
+Most of the energy for my car comes from the public utility Seattle City Light. Over 90 percent of their energy comes from renewable sources (mostly hydro), and the small emissions they do generate is offset every year. <sup id="fnr5">[5]</sup> Because of this, I try to choose driving alone in my EV over carpooling in an ICE car as much as possible.
+
+Although I find in most situations people would much rather ride with me anyway.
 
 ***
 
