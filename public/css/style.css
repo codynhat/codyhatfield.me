@@ -542,7 +542,7 @@
     background-repeat: repeat-x;
   }
   .max-width {
-    max-width: 48rem;
+    max-width: 50rem;
   }
   #header {
     margin: 0 auto 2rem;
@@ -576,13 +576,11 @@
     display: inline-block;
     float: left;
     margin-right: 20px;
-    width: 0px;
-    height: 0px;
+    width: 75px;
+    height: 75px;
     border-radius: 5px;
-    filter: grayscale(100%);
-    background-size: 0px 0px;
+    background-size: 75px 75px;
     background-repeat: no-repeat;
-    -webkit-filter: grayscale(100%);
   }
   #header #nav {
     color: #859900;
@@ -1020,7 +1018,7 @@
     width: auto;
   }
   .highlight td.gutter {
-    text-align: right;
+    display: none;
   }
   .highlight .line {
     height: 22px;
@@ -1058,7 +1056,7 @@
   #header #title {
     display: table;
     margin-right: 5rem;
-    min-height: 0px;
+    min-height: 75px;
   }
   #header #title h1 {
     display: table-cell;
@@ -1082,7 +1080,7 @@
   }
   #header #nav li:not(:first-child) {
     padding-top: 1rem;
-    padding-left: 20px;
+    padding-left: 95px;
     font-size: 1rem;
   }
 }
@@ -1353,7 +1351,7 @@
     background-repeat: repeat-x;
   }
   .max-width {
-    max-width: 48rem;
+    max-width: 50rem;
   }
   #header {
     margin: 0 auto 2rem;
@@ -1387,13 +1385,11 @@
     display: inline-block;
     float: left;
     margin-right: 20px;
-    width: 0px;
-    height: 0px;
+    width: 75px;
+    height: 75px;
     border-radius: 5px;
-    filter: grayscale(100%);
-    background-size: 0px 0px;
+    background-size: 75px 75px;
     background-repeat: no-repeat;
-    -webkit-filter: grayscale(100%);
   }
   #header #nav {
     color: #859900;
@@ -1831,7 +1827,7 @@
     width: auto;
   }
   .highlight td.gutter {
-    text-align: right;
+    display: none;
   }
   .highlight .line {
     height: 22px;
@@ -1869,7 +1865,7 @@
   #header #title {
     display: table;
     margin-right: 5rem;
-    min-height: 0px;
+    min-height: 75px;
   }
   #header #title h1 {
     display: table-cell;
@@ -1893,7 +1889,7 @@
   }
   #header #nav li:not(:first-child) {
     padding-top: 1rem;
-    padding-left: 20px;
+    padding-left: 95px;
     font-size: 1rem;
   }
 }
