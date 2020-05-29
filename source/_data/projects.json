@@ -1,5 +1,10 @@
 [
     {
+        "name":"ipfs-ios-backup",
+        "url":"https://github.com/codynhat/ipfs-ios-backup",
+        "desc":"Backup iOS devices to a private IPFS network"
+    },
+    {
        "name":"Health Exporter",
        "url":"/apps/health-exporter.html",
        "desc":"Save Raw Health Data to a CSV"
