@@ -13,17 +13,38 @@ Save Raw Health Data to a CSV
 
 Access your data from the Health app in the widely compatible CSV format.
 
-* Save as a CSV file
-* Send to any device using Airdrop, Email, and other standard sharing options
-* Analyze your data in Numbers, Excel, R, and other CSV-compatible software
-* Manually back up your data to another device
+- Save as a CSV file
+- Send to any device using Airdrop, Email, and other standard sharing options
+- Analyze your data in Numbers, Excel, R, and other CSV-compatible software
+- Manually back up your data to another device
 
 Select a health data type, date range, and unit to begin export. Preview rows before saving a CSV.
 
 # Changelog
 
+### 1.2
+
+Updated some health type names.
+
+Added a source name field to exports.
+
+New iOS 14 mobility types:
+
+- Walking Speed
+- Walking Double Support Time
+- Walking Asymmetry
+- Walking Step Length
+- Six-Minute Walk
+- Stair Speed: Up
+- Stair Speed: Down
+
+### 1.1.1
+
+- Minor UI fixes
+
 ### 1.1.0
-* You can now export multiple data types at once into the same CSV file
+
+- You can now export multiple data types at once into the same CSV file
 
 # Privacy
 
@@ -47,7 +68,7 @@ The temporary file is encrypted on your device using the iOS default "Protected 
 
 Once exported, the file is not encrypted.
 
-## Why are you not doing *X* for my security and privacy?
+## Why are you not doing _X_ for my security and privacy?
 
 Please [contact me](mailto:cody.hatfield@me.com) with any questions or feedback!
 
@@ -55,85 +76,92 @@ Please [contact me](mailto:cody.hatfield@me.com) with any questions or feedback!
 
 The following health data types are available to export:
 
-* Active Energy Burned
-* Basal Body Temperature
-* Basal Energy Burned
-* Biotin
-* Blood Alcohol Content
-* Blood Glucose
-* Blood Pressure Diastolic
-* Blood Pressure Systolic
-* Body Fat Percentage
-* Body Mass
-* Body Mass Index
-* Body Temperature
-* Caffeine
-* Calcium
-* Carbohydrates
-* Chloride
-* Cholesterol
-* Chromium
-* Copper
-* Cycling Distance
-* Downhill Snow Sports Distance
-* Electrodermal Activity
-* Energy Consumed
-* Environmental Audio Exposure
-* Exercise Time
-* Fiber
-* Flights Climbed
-* Folate
-* Forced Expiratory Volume 1
-* Forced Vital Capacity
-* HRV
-* Headphone Audio Exposure
-* Heart Rate
-* Height
-* Inhaler Usage
-* Iodine
-* Iron
-* Lean Body Mass
-* Magnesium
-* Manganese
-* Molybdenum
-* Monounsaturated Fat
-* Niacin
-* Nike Fuel
-* Number Of Time Fallen
-* Oxygen Saturation
-* Pantothenic Acid
-* Peak Expiratory Flow Rate
-* Peripheral Perfusion Index
-* Phosphorus
-* Polyunsaturated Fat
-* Potassium
-* Protein
-* Respiratory Rate
-* Resting Heart Rate
-* Riboflavin
-* Saturated Fat
-* Selenium
-* Sodium
-* Stand Time
-* Step Count
-* Sugar
-* Swimming Distance
-* Swimming Stroke Count
-* Thiamin
-* Total Fat
-* UV Exposure
-* VO2 Max
-* Vitamin A
-* Vitamin B12
-* Vitamin B6
-* Vitamin C
-* Vitamin D
-* Vitamin E
-* Vitamin K
-* Waist Circumference
-* Walking Heart Rate Average
-* Walking/Running Distance
-* Water
-* Wheelchair Distance
-* Wheelchair Push Count
-* Zinc
+- Active Energy Burned
+- Basal Body Temperature
+- Basal Energy Burned
+- Biotin
+- Blood Alcohol Content
+- Blood Glucose
+- Blood Pressure Diastolic
+- Blood Pressure Systolic
+- Body Fat Percentage
+- Body Mass
+- Body Mass Index
+- Body Temperature
+- Caffeine
+- Calcium
+- Carbohydrates
+- Cardio Fitness
+- Chloride
+- Cholesterol
+- Chromium
+- Copper
+- Cycling Distance
+- Downhill Snow Sports Distance
+- Electrodermal Activity
+- Energy Consumed
+- Environmental Audio Exposure
+- Exercise Time
+- Fiber
+- Flights Climbed
+- Folate
+- Forced Expiratory Volume 1
+- Forced Vital Capacity
+- HRV
+- Headphone Audio Exposure
+- Heart Rate
+- Height
+- Inhaler Usage
+- Iodine
+- Iron
+- Lean Body Mass
+- Magnesium
+- Manganese
+- Molybdenum
+- Monounsaturated Fat
+- Niacin
+- Nike Fuel
+- Number Of Time Fallen
+- Oxygen Saturation
+- Pantothenic Acid
+- Peak Expiratory Flow Rate
+- Peripheral Perfusion Index
+- Phosphorus
+- Polyunsaturated Fat
+- Potassium
+- Protein
+- Respiratory Rate
+- Resting Heart Rate
+- Riboflavin
+- Saturated Fat
+- Selenium
+- Six-Minute Walk
+- Sodium
+- Stair Speed: Up
+- Stair Speed: Down
+- Stand Time
+- Step Count
+- Sugar
+- Swimming Distance
+- Swimming Stroke Count
+- Thiamin
+- Total Fat
+- UV Exposure
+- Vitamin A
+- Vitamin B12
+- Vitamin B6
+- Vitamin C
+- Vitamin D
+- Vitamin E
+- Vitamin K
+- Waist Circumference
+- Walking Asymmetry
+- Walking Double Support Time
+- Walking Speed
+- Walking Step Length
+- Walking Heart Rate Average
+- Walking/Running Distance
+- Water
+- Wheelchair Distance
+- Wheelchair Push Count
+- Zinc
