@@ -85,5 +85,12 @@ module.exports = {
         ],
       },
     },
+    {
+      resolve: "gatsby-plugin-fathom",
+      options: {
+        trackingUrl: "panther.codyhatfield.me",
+        siteId: "ZQMDCMXT",
+      },
+    },
   ],
 };
