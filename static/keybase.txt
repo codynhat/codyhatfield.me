@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/codynhat
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://codyhatfield.me
+  * I am codynhat (https://keybase.io/codynhat) on keybase.
+  * I have a public key ASABUs_xAyBOHZQqSI1D0bam0HZ2NWslAzNl72wkdhxrfgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012038eed80336cd28d18f8cae329df09cbc2ee190b5bea513afb73b8bfb3213f6eb0a",
+      "host": "keybase.io",
+      "kid": "01200152cff103204e1d942a488d43d1b6a6d07676356b25033365ef6c24761c6b7e0a",
+      "uid": "a2309ac7e9fc0df35aef55de1cae8819",
+      "username": "codynhat"
+    },
+    "merkle_root": {
+      "ctime": 1573401968,
+      "hash": "329bdac584e0452053ec48cfa454b5638d8b2497dac88122ddad450644e1eb54b3fa089fa0353ac88fd450efd6a6f1b710f17e44f61352447f48313003817ff0",
+      "hash_meta": "99beac619499014e0cb65c2ef1c45e9c955700e2e873f51db65cacd728679489",
+      "seqno": 9085427
+    },
+    "service": {
+      "entropy": "Y4o5gL7oQ1uhJjXBspv7PD6g",
+      "hostname": "codyhatfield.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.7.2"
+  },
+  "ctime": 1573401978,
+  "expire_in": 504576000,
+  "prev": "e4ef62b21f1f753dd82e05f1a287ebff986902a96f37774f0c9086078eb14e1b",
+  "seqno": 25,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgAVLP8QMgTh2UKkiNQ9G2ptB2djVrJQMzZe9sJHYca34Kp3BheWxvYWTESpcCGcQg5O9ish8fdT3YLgXxoofr/5hpAqlvN3dPDJCGB46xThvEIBSMjnmB3yDbn6mI6imzKq6bCg7vJW27JaRohVVnvp/bAgHCo3NpZ8RA6+FxhfE71MZXljHVMAhjDnpEb5ipovs8xfoP1RMdEpPYaqFxFBXJTwFv+6rdmdenlc/0KP+nvVPjGPiHcpDtC6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPcnuTtAbOffWI5Kz6dFOEqC3xlEy4jra0pQyAgpYNwWo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/codynhat
+
+==================================================================

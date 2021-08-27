@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: codyhatfield.me
+Token: 8af00b58a9da7ddeecf7d1b1ea885ec494925fb320fd11ff8cf67a95d12fa7b3
