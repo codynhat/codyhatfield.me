@@ -1,17 +1,14 @@
 ---
 title: "EV Road Trip: For the Fun of It"
 date: 2019-08-21 00:00:00
-categories:
-  - EV Road Trip
-tags:
-  - tesla
+slug: /2019/08/ev-road-trip-for-the-fun-of-it
 ---
 
 **Update:** _This post is part of a series of posts about a recent road trip I took in my Tesla Model 3. You can see a list of all posts in the series [here](/categories/ev-road-trip/)._
 
 - - - -
 
-{% asset_img images/teton-tesla-model-3-dashcam.png Grand Tetons from Model 3 Dashcam %}
+![Grand Tetons from Model 3 Dashcam](../assets/ev-road-trip-for-the-fun-of-it/teton-tesla-model-3-dashcam.png)
 
 I recently drove a 2700 mile road trip alone with my electric vehicle: a Tesla Model 3. Many people have asked me why I would want to drive from Seattle, Washington to Steamboat Springs, Colorado. Even my own family members chose flying over riding with me. Someone even asked if the gas was more expensive than a plane ticket 😏.
 
@@ -26,7 +23,7 @@ There is, of course, another reason I deciding to pass on the plane ticket. **El
 
 The questions people ask are always about common concerns with electric vehicles. They never ask about the benefits. What I have come to realize is most people do not know what the benefits are, yet even realize they exist. The pros-and-cons list in people’s heads looks something like this:
 
-{% asset_img images/pros-cons.png Perceived EV Pros and Cons %}
+![Perceived EV Pros and Cons](../assets/ev-road-trip-for-the-fun-of-it/pros-cons.png)
 
 This is completely normal. Electric vehicles are new and different. **We are scared of what is different and tend to focus on it.** People were skeptical of the original iPhone because it [didn’t have a keyboard](https://daringfireball.net/2008/05/regarding_the_iphone_keyboard). Whoa, different. Scary. Does anyone remember using a phone with a physical keyboard?
 
@@ -66,7 +63,7 @@ For my car, the experience driving down a hill is the same as any other. No shif
 
 There was a point in my trip where I averaged -10 watt hours per mile of energy consumption over five miles of driving.
 
-{% asset_img images/ev-downhill-regenerative-braking.jpg [EV Regenerative Braking] %}
+![EV Regenerative Braking](../assets/ev-road-trip-for-the-fun-of-it/ev-downhill-regenerative-braking.jpg)
 
 The projected range was a comical 999 miles. Seems like Tesla needs to replace that with an ∞ symbol.
 
@@ -76,7 +73,7 @@ Of course, going _up_ mountain passes was fun, too. Again, it was easy to precis
 
 ## “Please Turn Off Engine”
 
-{% asset_img images/no-idling.jpg [Source https://www.roadtrafficsigns.com] %}
+![Source https://www.roadtrafficsigns.com](../assets/ev-road-trip-for-the-fun-of-it/no-idling.jpg)
 
 I love coming across signs like this. I have experienced this before a number of times when waiting for a draw bridge or taking a ferry. I also experienced this again on my trip.
 

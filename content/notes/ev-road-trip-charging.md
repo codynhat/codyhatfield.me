@@ -1,15 +1,12 @@
 ---
 title: 'EV Road Trip: Charging'
 date: 2019-09-23 19:35:21
-categories:
-  - EV Road Trip
-tags:
-  - tesla
+slug: /2019/09/ev-road-trip-charging/
 ---
 
 _This post is part of a series of posts about a recent road trip I took in my Tesla Model 3. You can see a list of all posts in the series [here](/categories/EV-Road-Trip/)._
 
-- - - -
+---
 
 ## Planning
 The assumption most people make when learning someone has gone on a long road trip in an EV is that there must have been a lot of planning involved. They imagine spending a few hours laying out the exact route ahead of time. Every stop to charge must be pinned on a map and printed out, right? And if you deviate from the route, you will most definitely run out of charge and be stranded? Once you are on the route, it must be stressful? Whatever you do, do not take a wrong turn!

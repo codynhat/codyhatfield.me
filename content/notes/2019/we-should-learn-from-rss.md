@@ -1,9 +1,8 @@
 ---
 title: We Should Learn From RSS
-s: we-should-learn-from-rss
 date: 2019-11-17 12:00:00
-tags:
-canonical_url: https://medium.com/offline-camp/we-should-learn-from-rss-31d100c81d26
+slug: /2019/11/we-should-learn-from-rss/
+canonicalUrl: https://medium.com/offline-camp/we-should-learn-from-rss-31d100c81d26
 ---
 
 ***This post originally appeared on [Medium](https://medium.com/offline-camp/we-should-learn-from-rss-31d100c81d26)***

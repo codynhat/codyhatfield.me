@@ -1,7 +1,7 @@
 ---
 title: Why I Think Snapchat's Model is Flawed
 date: 2014-10-16 14:25:01
-tags:
+slug: /2014/10/why-i-think-snapchat-s-model-is-flawed
 canonical_url: https://medium.com/@codynhat/why-i-think-snapchats-model-is-flawed-c50998ffd590
 ---
 
