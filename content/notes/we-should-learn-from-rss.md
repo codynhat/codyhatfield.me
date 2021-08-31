@@ -1,17 +1,17 @@
 ---
 title: We Should Learn From RSS
 date: 2019-11-17 12:00:00
-slug: /2019/11/we-should-learn-from-rss/
+slug: /2019/11/we-should-learn-from-rss
 canonicalUrl: https://medium.com/offline-camp/we-should-learn-from-rss-31d100c81d26
 ---
 
 ***This post originally appeared on [Medium](https://medium.com/offline-camp/we-should-learn-from-rss-31d100c81d26)***
 
-{% asset_img cover.jpeg %}
+![](../assets/we-should-learn-from-rss/cover.jpeg)
 
 Let's talk about RSS. You may have heard of it or seen it appear across the web. Perhaps you have always wondered what it is, or perhaps you already know all about it. No matter which it is, I want to talk about why you should care about RSS and why we should learn from it.
 
-{% youtube RVG7zZpvYJY %}
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/RVG7zZpvYJY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## What is RSS?
 

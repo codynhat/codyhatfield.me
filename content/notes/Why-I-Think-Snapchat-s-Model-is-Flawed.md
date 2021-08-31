@@ -2,7 +2,7 @@
 title: Why I Think Snapchat's Model is Flawed
 date: 2014-10-16 14:25:01
 slug: /2014/10/why-i-think-snapchat-s-model-is-flawed
-canonical_url: https://medium.com/@codynhat/why-i-think-snapchats-model-is-flawed-c50998ffd590
+canonicalUrl: https://medium.com/@codynhat/why-i-think-snapchats-model-is-flawed-c50998ffd590
 ---
 
 ***This post originally appeared on [Medium](https://medium.com/@codynhat/why-i-think-snapchats-model-is-flawed-c50998ffd590)***
@@ -33,7 +33,7 @@ We saw an opportunity.
 
 Snappy was released to the Mac App Store in June of 2014. It allowed people to view snaps from their friends and send snaps using the built-in camera on their computers. You could also apply stylish and funny filters to your photos before sending them. Snappy did not allow you to save snaps and did not prevent snaps from disappearing. It worked exactly like Snapchat. The photos disappeared after they were shown.
 
-{% asset_img snappy.png Snappy, Snap from your Mac %}
+![Snappy, Snap from your Mac](../assets/Why-I-Think-Snapchat-s-Model-is-Flawed/snappy.png)
 
 We had no intention of interfering with Snapchat’s model or putting people’s privacy at risk; two things that other third-party apps do.
 

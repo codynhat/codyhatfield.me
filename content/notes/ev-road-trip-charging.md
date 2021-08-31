@@ -1,7 +1,7 @@
 ---
 title: 'EV Road Trip: Charging'
 date: 2019-09-23 19:35:21
-slug: /2019/09/ev-road-trip-charging/
+slug: /2019/09/ev-road-trip-charging
 ---
 
 _This post is part of a series of posts about a recent road trip I took in my Tesla Model 3. You can see a list of all posts in the series [here](/categories/EV-Road-Trip/)._
