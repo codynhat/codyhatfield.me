@@ -69,74 +69,11 @@ The first example is my home state of Washington<sup id="fnr5">[5]</sup>, which 
 
 So what results in more carbon emissions? In this case, it depends greatly on where your electricity is coming from. As you can see in the chart below, there are plenty of countries where riding in the ICE car has less emissions, and also some countries where riding in the EV has less emissions. There is even Iceland, which emits **zero** carbon emissions from electricity generation.
 
-<canvas id="data" height="400em"></canvas><a href="data.csv" style="font-size: x-small;">Raw Data</a>
+import { ICEChart } from '../components/an-additional-ice-passenger/ICEChart';
 
+<ICEChart />
 
-<script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
-<script src="https://cdn.jsdelivr.net/npm/xlsx@0.16.0/dist/xlsx.min.js" integrity="sha256-j6s13sDrFq3WpEWL4C1sbm+gb3CbknDfDCg7tJ26Qv0=" crossorigin="anonymous"></script>
-<script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datasource@0.1.0"></script>
-
-<script>
-    var ctx = document.getElementById('data').getContext('2d');
-    var colors = [];
-    for (let i = 0; i < 24; i++) {
-        colors.push('#2aa198');
-    }
-    colors[4] = '#d33682';
-    colors[23] = '#d33682';
-    var tColor = window.getComputedStyle(document.getElementsByTagName("body")[0]).color;
-    Chart.defaults.global.defaultFontColor = tColor;
-    var chart = new Chart(ctx, {
-        type: 'horizontalBar',
-        data: {
-            labels: [],
-            datasets: [
-                {
-                    label: 'kg of CO2 per mile',
-                    backgroundColor: colors,
-                    borderColor: '#2aa198'
-                }
-            ]
-        },
-        plugins: [ChartDataSource],
-        options: {
-            title: {
-                display: true,
-                text: 'EV Emissions vs An Additional ICE Passenger',
-                fontSize: 18,
-                padding: 30
-            },
-            legend: {
-                display: false
-            },
-            plugins: {
-                datasource: {
-                    url: 'data.csv',
-                    rowMapping: 'index',
-                    datasetLabels: 'Sheet1!C1:C1',
-                    indexLabels: 'Sheet1!A2:A25',
-                    data: 'Sheet1!C2:C25'
-                }
-            },
-            scales: {
-                xAxes: [{
-                    gridLines: {
-                        display: false,
-                        drawBorder: false
-                    },
-                    stacked: true
-                }],
-                yAxes: [{
-                    gridLines: {
-                        display: false,
-                        drawBorder: false
-                    },
-                    stacked: true
-                }]
-            }
-        }
-    });
-</script>
+[Raw Data](/data/an-additional-ice-passenger.csv)
 
 ## My Take
 
