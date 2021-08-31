@@ -36,7 +36,7 @@ export default function RecentList() {
                   to={
                     node.frontmatter.link
                       ? node.frontmatter.link
-                      : node.frontmatter.slug
+                      : node.frontmatter.slug ?? node.slug
                   }
                   sx={{ variant: `links.underline` }}
                 >
@@ -55,12 +55,14 @@ const RecentListQuery = graphql`
   query {
     allMdx(
       sort: { fields: [frontmatter___date, frontmatter___title], order: DESC }
+      filter: { frontmatter: { tags: { nin: "project" } } }
       limit: 10
     ) {
       edges {
         node {
           id
           excerpt
+          slug
           frontmatter {
             title
             slug

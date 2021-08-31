@@ -3,10 +3,11 @@ import { jsx, Styled } from "theme-ui";
 import { graphql, useStaticQuery, Link } from "gatsby";
 
 import { Underline } from "@codynhat/gatsby-theme-cactus/src/components";
-import formatTime from "@codynhat/gatsby-theme-cactus/utils/format-time";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faLink } from "@fortawesome/free-solid-svg-icons";
 
 export default function ProjectList() {
-  const { allNote } = useStaticQuery(ProjectListQuery);
+  const { allMdx } = useStaticQuery(ProjectListQuery);
 
   return (
     <section>
@@ -14,12 +15,24 @@ export default function ProjectList() {
         <h2 sx={{ variant: `title` }}>Projects</h2>
       </Link>
       <Styled.ul>
-        {allNote.edges.map(({ node }) => {
+        {allMdx.edges.map(({ node }) => {
           return (
             <li key={node.id} sx={{ mb: 2 }}>
               <Underline themeColor="text" hoverThemeColor="secondary">
-                <Link to={`${node.slug}`} sx={{ variant: `links.underline` }}>
-                  {node.title}
+                {node.frontmatter.link ? (
+                  <span>
+                    <FontAwesomeIcon icon={faLink} size="sm" />{" "}
+                  </span>
+                ) : null}
+                <Link
+                  to={
+                    node.frontmatter.link
+                      ? node.frontmatter.link
+                      : node.frontmatter.slug ?? node.slug
+                  }
+                  sx={{ variant: `links.underline` }}
+                >
+                  {node.frontmatter.title}
                 </Link>
               </Underline>
               : {node.excerpt}
@@ -33,18 +46,21 @@ export default function ProjectList() {
 
 const ProjectListQuery = graphql`
   query {
-    allNote(
-      sort: { fields: [date, title], order: DESC }
-      filter: { tags: { in: "project" } }
+    allMdx(
+      sort: { fields: [frontmatter___date, frontmatter___title], order: DESC }
+      filter: { frontmatter: { tags: { in: "project" } } }
     ) {
       edges {
         node {
           id
           excerpt
           slug
-          title
-          date(formatString: "DD MMM YYYY")
-          tags
+          frontmatter {
+            title
+            slug
+            date(formatString: "DD MMMM, YYYY")
+            link
+          }
         }
       }
     }
