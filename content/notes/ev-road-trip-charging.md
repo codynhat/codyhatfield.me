@@ -4,7 +4,7 @@ date: 2019-09-23 19:35:21
 slug: /2019/09/ev-road-trip-charging
 ---
 
-_This post is part of a series of posts about a recent road trip I took in my Tesla Model 3. You can see a list of all posts in the series [here](/categories/EV-Road-Trip/)._
+_This post is part of a series of posts about a recent road trip I took in my Tesla Model 3. You can see a list of all posts in the series [[/categories/EV-Road-Trip|here]]._
 
 ---
 
@@ -106,7 +106,7 @@ The great news is V3 Supercharging is solving this problem as well. Every stall 
 
 Supercharging already makes road trips in an EV very comparable to ICE cars. With a little more planning and slightly longer stops, EV road trips are just as convenient. The continuing expansion of new locations along with V3 Supercharging are the last steps needed to make EV road trips as simple as the trips we have all taken in ICE cars.
 
-Of course, they are just a [little more fun](/2019/08/ev-road-trip-for-the-fun-of-it/), too.
+Of course, they are just a [[/2019/08/ev-road-trip-for-the-fun-of-it|little more fun]], too.
 
 Interested in seeing the raw data from my road trip? Check it out [here](/data/ev-road-trip/).
 

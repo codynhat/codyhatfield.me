@@ -4,7 +4,7 @@ date: 2019-08-21 00:00:00
 slug: /2019/08/ev-road-trip-for-the-fun-of-it
 ---
 
-**Update:** _This post is part of a series of posts about a recent road trip I took in my Tesla Model 3. You can see a list of all posts in the series [here](/categories/ev-road-trip/)._
+**Update:** _This post is part of a series of posts about a recent road trip I took in my Tesla Model 3. You can see a list of all posts in the series [[/categories/EV-Road-Trip|here]]._
 
 - - - -
 
