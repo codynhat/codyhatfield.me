@@ -64,8 +64,8 @@ module.exports = {
             },
             query: `
             {
-              allMdx(
-                sort: { order: DESC, fields: [frontmatter___date] },
+              allMdxNote(
+                sort: { order: DESC, fields: [date] },
               ) {
                 edges {
                   node {
@@ -92,6 +92,22 @@ module.exports = {
       options: {
         trackingUrl: "panther.codyhatfield.me",
         siteId: "ZQMDCMXT",
+      },
+    },
+    {
+      resolve: `gatsby-plugin-mdx`,
+      options: {
+        extensions: [`.mdx`, `.md`],
+        gatsbyRemarkPlugins: [
+          {
+            resolve: `gatsby-remark-double-brackets-link`,
+            options: {
+              parseWikiLinks: true,
+              stripBrackets: true,
+              titleToURLPath: `${__dirname}/resolve-url.js`,
+            },
+          },
+        ],
       },
     },
   ],
