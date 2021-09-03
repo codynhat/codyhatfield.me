@@ -1065,10 +1065,10 @@
     "@babel/helper-validator-identifier" "^7.14.9"
     to-fast-properties "^2.0.0"
 
-"@codynhat/gatsby-theme-cactus@^1.4.0":
-  version "1.4.0"
-  resolved "https://registry.yarnpkg.com/@codynhat/gatsby-theme-cactus/-/gatsby-theme-cactus-1.4.0.tgz#18a1b2803873b4dbf2c78acc1125fc928626e761"
-  integrity sha512-5EYGoZS7Vnzr4edRpX8xnsi4ivQyDLuO5O/+tuB9qBtJ3WUTtO2oJElcFJbtwx8ZykYgMKof0WHnq9fGS0QDfA==
+"@codynhat/gatsby-theme-cactus@^1.4.1":
+  version "1.4.1"
+  resolved "https://registry.yarnpkg.com/@codynhat/gatsby-theme-cactus/-/gatsby-theme-cactus-1.4.1.tgz#e225c314559576f211e4b14f2589bd3515df77e1"
+  integrity sha512-DvJiVpo1om/yS30D5/6Y6nCWKSiiRH1eu5mnfTW3hInhNazI49H3arZgcRc364dQrhScBKty+WatZG+a/rk/Nw==
   dependencies:
     "@fortawesome/fontawesome-svg-core" "^1.2.29"
     "@fortawesome/free-brands-svg-icons" "^5.13.1"

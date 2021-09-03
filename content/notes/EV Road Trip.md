@@ -1,6 +1,6 @@
 ---
 title: EV Road Trip
-date: 2020-08-31
+date: 2021-08-31 00:00:00
 slug: /categories/EV-Road-Trip
 ---
 

@@ -7,7 +7,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faLink } from "@fortawesome/free-solid-svg-icons";
 
 export default function ProjectList() {
-  const { allMdx } = useStaticQuery(ProjectListQuery);
+  const { allMdxNote } = useStaticQuery(ProjectListQuery);
 
   return (
     <section>
@@ -15,7 +15,7 @@ export default function ProjectList() {
         <h2 sx={{ variant: `title` }}>Projects</h2>
       </Link>
       <Styled.ul>
-        {allMdx.edges.map(({ node }) => {
+        {allMdxNote.edges.map(({ node }) => {
           return (
             <li key={node.id} sx={{ mb: 2 }}>
               <Underline themeColor="text" hoverThemeColor="secondary">
@@ -46,8 +46,8 @@ export default function ProjectList() {
 
 const ProjectListQuery = graphql`
   query {
-    allMdx(
-      sort: { fields: [frontmatter___date, frontmatter___title], order: DESC }
+    allMdxNote(
+      sort: { fields: [date, title], order: DESC }
       filter: { frontmatter: { tags: { in: "project" } } }
     ) {
       edges {

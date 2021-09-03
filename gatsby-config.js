@@ -30,7 +30,9 @@ module.exports = {
   plugins: [
     {
       resolve: "@codynhat/gatsby-theme-cactus",
-      options: {},
+      options: {
+        basePath: "/notes",
+      },
     },
     {
       resolve: `gatsby-plugin-feed`,
