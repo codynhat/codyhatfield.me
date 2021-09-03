@@ -51,8 +51,8 @@ module.exports = {
         `,
         feeds: [
           {
-            serialize: ({ query: { site, allMdx } }) => {
-              return allMdx.edges.map((edge) => {
+            serialize: ({ query: { site, allMdxNote } }) => {
+              return allMdxNote.edges.map((edge) => {
                 return Object.assign({}, edge.node.frontmatter, {
                   description: edge.node.body,
                   date: edge.node.frontmatter.date,
