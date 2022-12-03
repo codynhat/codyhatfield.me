@@ -1065,10 +1065,10 @@
     "@babel/helper-validator-identifier" "^7.14.9"
     to-fast-properties "^2.0.0"
 
-"@codynhat/gatsby-theme-cactus@^1.4.3":
-  version "1.4.3"
-  resolved "https://registry.yarnpkg.com/@codynhat/gatsby-theme-cactus/-/gatsby-theme-cactus-1.4.3.tgz#585039bee801b5ebbd686e3880f0151f91ca6816"
-  integrity sha512-EkrYAnY7OQmmlFmleY1v0IoIX8MmNQaYBIYyDjOKC9W+TL5y12XhIJUXx8oko3GRRVRpz4xcZ4wZqw0sejlzLQ==
+"@codynhat/gatsby-theme-cactus@^1.5.0":
+  version "1.5.0"
+  resolved "https://registry.yarnpkg.com/@codynhat/gatsby-theme-cactus/-/gatsby-theme-cactus-1.5.0.tgz#aa01634bb5f7a43ab5852fb6156ded87f38d99e4"
+  integrity sha512-FJKkiODXRedfDmFu+9S5COK1diUgXwfp3JUcuh6o35JnOfy+DSGCIxkuH9zso/tK6XARyCfA6m7rkj5mgGjOlQ==
   dependencies:
     "@fortawesome/fontawesome-svg-core" "^1.2.29"
     "@fortawesome/free-brands-svg-icons" "^5.13.1"
@@ -4899,9 +4899,9 @@ decamelize@^1.1.2, decamelize@^1.2.0:
   integrity sha1-9lNNFRSCabIDUue+4m9QH5oZEpA=
 
 decode-uri-component@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
-  integrity sha1-6zkTMzRYd1y4TNGh+uBiEGu4dUU=
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.2.tgz#e69dbe25d37941171dd540e024c444cd5188e1e9"
+  integrity sha512-FqUYQ+8o158GyGTrMFJms9qh3CqTKvAqgqsTnkLI8sKu0028orqBhxNMFkFen0zGyg6epACD32pjVk58ngIErQ==
 
 decompress-response@^3.2.0, decompress-response@^3.3.0:
   version "3.3.0"
