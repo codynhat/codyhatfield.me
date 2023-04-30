@@ -1065,10 +1065,10 @@
     "@babel/helper-validator-identifier" "^7.14.9"
     to-fast-properties "^2.0.0"
 
-"@codynhat/gatsby-theme-cactus@^1.4.3":
-  version "1.4.3"
-  resolved "https://registry.yarnpkg.com/@codynhat/gatsby-theme-cactus/-/gatsby-theme-cactus-1.4.3.tgz#585039bee801b5ebbd686e3880f0151f91ca6816"
-  integrity sha512-EkrYAnY7OQmmlFmleY1v0IoIX8MmNQaYBIYyDjOKC9W+TL5y12XhIJUXx8oko3GRRVRpz4xcZ4wZqw0sejlzLQ==
+"@codynhat/gatsby-theme-cactus@^1.5.0":
+  version "1.5.0"
+  resolved "https://registry.yarnpkg.com/@codynhat/gatsby-theme-cactus/-/gatsby-theme-cactus-1.5.0.tgz#aa01634bb5f7a43ab5852fb6156ded87f38d99e4"
+  integrity sha512-FJKkiODXRedfDmFu+9S5COK1diUgXwfp3JUcuh6o35JnOfy+DSGCIxkuH9zso/tK6XARyCfA6m7rkj5mgGjOlQ==
   dependencies:
     "@fortawesome/fontawesome-svg-core" "^1.2.29"
     "@fortawesome/free-brands-svg-icons" "^5.13.1"
@@ -1871,9 +1871,9 @@
     "@hapi/hoek" "^9.0.0"
 
 "@sideway/formula@^3.0.0":
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/@sideway/formula/-/formula-3.0.0.tgz#fe158aee32e6bd5de85044be615bc08478a0a13c"
-  integrity sha512-vHe7wZ4NOXVfkoRb8T5otiENVlT7a3IAiw7H5M2+GO+9CDgcVUUsX1zalAztCmwyOr2RUTGJdgB+ZvSVqmdHmg==
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/@sideway/formula/-/formula-3.0.1.tgz#80fcbcbaf7ce031e0ef2dd29b1bfc7c3f583611f"
+  integrity sha512-/poHZJJVjx3L+zVD6g9KgHfYnb443oi7wLu/XKojDviHy6HOEOA6z1Trk5aR1dGcmPenJEgb2sK2I80LeS3MIg==
 
 "@sideway/pinpoint@^2.0.0":
   version "2.0.0"
