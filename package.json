@@ -15,7 +15,7 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
-    "@codynhat/gatsby-theme-cactus": "^1.6.1",
+    "@codynhat/gatsby-theme-cactus": "^1.5.0",
     "@theme-ui/prism": "^0.3.0",
     "chart.js": "^3.5.1",
     "gatsby": "^2.24.78",
